@@ -1,4 +1,5 @@
 # crud-mevn
+apprentisage de vuejs vuex
 
 
 ## Project setup
